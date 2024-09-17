@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f25861ef71b685e40a54992e1893adac, type: 3}
+  m_Name: Song 01
+  m_EditorClassIdentifier: 
+  SongName: 0
+  MusicSong: {fileID: 8300000, guid: 73055d1aefc7438409c0bca83a7dbb3d, type: 3}
+  TileNotesSpawn:
+  - tileSpawnTime: 0.5
+    tileLane: 0
+  - tileSpawnTime: 1.7
+    tileLane: 2
+  - tileSpawnTime: 7
+    tileLane: 0
+  - tileSpawnTime: 9
+    tileLane: 1
+  - tileSpawnTime: 12
+    tileLane: 2
+  - tileSpawnTime: 14
+    tileLane: 3
+  - tileSpawnTime: 18
+    tileLane: 0
+  - tileSpawnTime: 20
+    tileLane: 1
+  - tileSpawnTime: 22
+    tileLane: 2
+  - tileSpawnTime: 24
+    tileLane: 0
+  - tileSpawnTime: 26
+    tileLane: 1
+  - tileSpawnTime: 28
+    tileLane: 2
